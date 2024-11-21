@@ -1,0 +1,11 @@
+# Ignorar notebooks Jupyter
+*.ipynb
+
+# Ignorar checkpoints de Jupyter
+*.ipynb_checkpoints/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar entornos virtuales
+venv/
